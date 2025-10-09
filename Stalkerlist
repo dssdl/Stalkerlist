@@ -11,11 +11,4 @@
         "00:1A:79:00:0A:31" 
         
       ]
-    },
-    {
-      "name": "Server 2 (21.08.2025)",
-      "portal": "http://innovationtv.eu:80/c/",
-      "macs": [
-        "00:1A:79:28:1f:6c",
-      ]
     }
